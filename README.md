@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumitparya
-- 👀 I’m interested in Game Development and A.I.
+- 👀 I’m interested in Game Development and AI
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me sumitparya2004@gmail.com
