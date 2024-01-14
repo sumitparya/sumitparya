@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumitparya
-- 👀 I’m interested in Game Development and AI
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on none
+- 👀 I’m interested in Programming, Graphic Design, Game Design, Linux and AI
+- 🌱 I’m currently pursuing Bachelor of Computer Application
 - 📫 How to reach me sumitparya2004@gmail.com
 
 <!---
