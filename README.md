@@ -61,17 +61,6 @@
   </tr>
 </table>
 
-<h2 align="center">🌌 Quantum Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/sumitparya/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitparya&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/sumitparya/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitparya&repo=project2&theme=radical" />
-  </a>
-</p>
-
 <h2 align="center">🌱 Current Learning Trajectory</h2>
 
 <p align="center">
